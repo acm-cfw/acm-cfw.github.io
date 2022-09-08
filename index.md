@@ -22,4 +22,4 @@ As part of this effort we have focused on [batocera](https://batocera.org) compa
 | Astro City Mini | TBA | TBA |
 
 
-
+|![Batocera boot](/images/ACM_BATOCERA_BOOT.png){:class="img-responsive"} | ![Batocera ES Info](/images/ACM_ES_INFO.png){:class="img-responsive"} |
