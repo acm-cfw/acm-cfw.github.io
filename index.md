@@ -12,7 +12,7 @@ As part of this effort we have focused on [batocera](https://batocera.org) compa
 
 * Read the [introduction](https://acm-cfw.github.io/00_general/1_Introduction) to learn more about this firmware.
 * Read the [installation page](https://acm-cfw.github.io/01_getting_started/1_Installation/) to get started.
-* For more information about the stock firmware, read [this page](https://acm-cfw.github.io/02_stock_firmware/)
+* For more information about the stock firmware, read [this page](https://acm-cfw.github.io/02_stock_firmware/1_extracting_ofw/)
 
 
 # Latest development release
