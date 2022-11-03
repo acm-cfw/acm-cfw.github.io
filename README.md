@@ -1,6 +1,6 @@
-# Astro City Mini Custom Firmware
+# Astro City and Egret-II Mini Custom Firmware
 
-This web site contains the documentation of the Astro City Mini (ACM) Custom Firmware.
+This web site contains the documentation of the Astro City Mini (ACM) and Egret-II Mini Custom Firmwares.
 
 Built using [Edition](https://github.com/CloudCannon/edition-jekyll-template)
 Jekyll template.
