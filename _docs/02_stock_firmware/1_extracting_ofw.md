@@ -5,14 +5,13 @@ order: 1
 label: OFW
 ---
 
-The first time you run the ```acm-backup-and-install.sh``` script to backup all the nand partitions to your USB.
+The first time you run the ```acm-backup-and-install.sh``` (or the ```e2m-backup-and-install.sh```)script to backup all the nand partitions to your USB.
 
-1. Insert a FAT32 formatted USB drive on the ACM P2 port
-2. Run ```acm-backup-and-install.sh``` on your computer
-3. The script will finish and the ACM will start dumping the NAND to your USB into a ```backup``` folder.
+1. Insert a FAT32 formatted USB drive on the ACM or E2M P2 port
+2. Run ```acm-backup-and-install.sh``` on your computer (or ```e2m-backup-and-install.sh``` on the E2M)
+3. The script will finish and the ACM/E2M will start dumping the NAND to your USB into a ```backup``` folder.
 
 After then nand is dumped you should see the following partitions on your USB:
-
 
 | NAME       | START       | END          | FILENAME |    
 | ---------- | ----------- | ------------ | --------- |
