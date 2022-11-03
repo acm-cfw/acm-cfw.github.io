@@ -5,7 +5,7 @@ order: 1
 label: draft
 ---
 
-NOTE; while these insructions are written for the ACM, they are similar for the E2M.
+NOTE: while these insructions are written for the ACM, they are similar for the E2M.
 
 The installation of this custom firmware requires the following steps:
 1. Download and flash the batocera image into a USB drive (16GB+)
