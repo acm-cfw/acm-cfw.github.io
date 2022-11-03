@@ -4,7 +4,7 @@ title: Welcome
 
 # Introduction 
 
-These pages describe the installation of a custom firmware (CFW) for the Astro City Mini (ACM) and Egret-II Mini consoles. Due to the platform similarities, we hope to eventually produce versions for the Astro City Mini-V (ACM-V).
+These pages describe the installation of a custom firmware (CFW) for the Astro City Mini (ACM) and Egret-II Mini (E2M) consoles. Due to the platform similarities, we hope to eventually produce versions for the Astro City Mini-V (ACM-V).
 
 As part of this effort we have focused on [batocera](https://batocera.org) compatibility to get a full-fledged firmware. 
 
